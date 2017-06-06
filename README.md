@@ -1,2 +1,2 @@
 # IMB-Is-Sagligi-ve-Guvenligi-Otomasyon-Sistemi
-İş Sağlığı ve Güvenliği dersi için final sınavı olarak yapılan bir uygulama.
+Visual Studio kullananlar için; uygulamayı IMB.zar adlı dosyayı indirerek kurabilirsiniz. Yalnız zar uzantıyı rar yaparak arşiv haline dönüştürebilirsiniz.
